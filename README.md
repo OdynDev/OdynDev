@@ -7,7 +7,7 @@
 - 🔭 Currently working on my **Developer Portfolio**
 - 🌱 Learning **Next.js, React**
 - 💼 Freelancing via [Useme](https://useme.com/pl/roles/contractor/odyndev,461613/)
-- 📫 Reach me: [E-Mail)[odyndev@gmail.com)
+- 📫 Reach me: [E-Mail](odyndev@gmail.com)
 
 ---
 
