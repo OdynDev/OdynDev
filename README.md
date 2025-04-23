@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm OdynDev</h1>
-<h3 align="center">💻 Frontend Developer & UI/UX Enthusiast</h3>
+<h3 align="center">💻 I am a beginner web developer who recently started my programming journey.</h3>
 
 ---
 
 ### 🧠 About me
-- 🔭 Currently working on my **developer portfolio**
-- 🌱 Learning **Next.js, animations & clean UX**
+- 🔭 Currently working on my **Developer Portfolio**
+- 🌱 Learning **Next.js, React**
 - 💼 Freelancing via [Useme](https://useme.com/pl/roles/contractor/odyndev,461613/)
-- 📫 Reach me: **odyndev@gmail.com**
+- 📫 Reach me: [E-Mail)[odyndev@gmail.com)
 
 ---
 
@@ -19,7 +19,7 @@
 ---
 
 ### 🌐 Portfolio & Projects
-- 🔗 [My portfolio website](https://odyn.dev)  
+- 🔗 [My Portfolio Website]([https://odyn.dev](https://odyndev.vercel.app/))  
 - 🧩 Check pinned repos below 👇
 
 ---
@@ -43,18 +43,18 @@
 ### 📬 Let's Connect
 <p align="center">
   <a href="mailto:odyndev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.icons8.com/ios-filled/30/EA4335/new-post.png" alt="Email" />
   </a>
   <a href="https://github.com/odyndev" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/github.png" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/odyndev" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/ios-filled/30/0077B5/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://x.com/OdynDeveloper" target="_blank">
-    <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" />
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/twitterx--v1.png" alt="X" />
   </a>
   <a href="https://useme.com/pl/roles/contractor/odyndev,461613/" target="_blank">
-    <img src="https://img.shields.io/badge/-Useme-006aff?style=flat&logoColor=white" />
+    <img src="https://img.icons8.com/ios-filled/30/006aff/briefcase.png" alt="Useme" />
   </a>
 </p>
