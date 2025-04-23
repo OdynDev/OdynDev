@@ -19,7 +19,7 @@
 ---
 
 ### 🌐 Portfolio & Projects
-- 🔗 [My Portfolio Website]([https://odyn.dev](https://odyndev.vercel.app/))  
+- 🔗 [My Portfolio Website](https://odyndev.vercel.app/)
 - 🧩 Check pinned repos below 👇
 
 ---
