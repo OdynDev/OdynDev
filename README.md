@@ -3,7 +3,7 @@
 
 ---
 
-### 🧠 About me
+### 🧠 About me:
 - 🔭 Currently working on my **Developer Portfolio**
 - 🌱 Learning **Next.js, React**
 - 💼 Freelancing via [Useme](https://useme.com/pl/roles/contractor/odyndev,461613/)
@@ -11,20 +11,20 @@
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=workpress,js,react,nextjs,tailwind,html,css,git,github,vscode" />
 </p>
 
 ---
 
-### 🌐 Portfolio & Projects
+### 🌐 Portfolio & Projects:
 - 🔗 [My Portfolio Website](https://odyndev.vercel.app/)
 - 🧩 Check pinned repos below 👇
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OdynDev&show_icons=true&theme=radical" />
   <br />
@@ -33,14 +33,14 @@
 
 ---
 
-### 🐍 GitHub Activity Snake
+### 🐍 GitHub Activity Snake:
 <p align="center">
   <img src="https://raw.githubusercontent.com/OdynDev/OdynDev/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
 
-### 📬 Let's Connect
+### 📬 Let's Connect:
 <p align="center">
   <a href="mailto:odyndev@gmail.com" target="_blank">
     <img src="https://img.icons8.com/ios-filled/30/EA4335/new-post.png" alt="Email" />
