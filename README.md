@@ -13,9 +13,8 @@
 
 ### 🚀 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=workpress,js,react,nextjs,tailwind,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,sql,php,js,react,wordpress,elementor" />
 </p>
-
 ---
 
 ### 🌐 Portfolio & Projects:
