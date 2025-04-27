@@ -36,27 +36,27 @@
 ### 📬 Let's Connect:
 <p align="center">
   <a href="mailto:odyndev@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/clouds/30/gmail-new.png" alt="Email" />
+    <img src="https://img.icons8.com/clouds/40/gmail-new.png" alt="Email" />
   </a>
   <a href="https://github.com/odyndev" target="_blank">
-    <img src="https://img.icons8.com/clouds/30/github.png" alt="GitHub" />
+    <img src="https://img.icons8.com/clouds/40/github.png" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/odyndev" target="_blank">
-    <img src="https://img.icons8.com/clouds/30/linkedin.png" alt="LinkedIn" />
+    <img src="https://img.icons8.com/clouds/40/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://x.com/OdynDeveloper" target="_blank">
-    <img src="https://img.icons8.com/clouds/30/twitter-circled.png" alt="X" />
+    <img src="https://img.icons8.com/clouds/40/twitter-circled.png" alt="X" />
   </a>
   <a href="https://useme.com/pl/roles/contractor/odyndev,461613/" target="_blank">
-    <img src="https://img.icons8.com/clouds/30/u.png" alt="Useme" />
+    <img src="https://img.icons8.com/clouds/40/u.png" alt="Useme" />
   </a>
   <a href="odyndev.hashnode.dev" target="_blank">
-    <img src="https://img.icons8.com/color/30/hashnode.png" alt="Hashnode" />
+    <img src="https://img.icons8.com/color/40/hashnode.png" alt="Hashnode" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=61575264760407" target="_blank">
-    <img src="https://img.icons8.com/clouds/30/facebook-new.png" alt="Facebook" />
+    <img src="https://img.icons8.com/clouds/40/facebook-new.png" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/odyndev" target="_blank">
-    <img src="https://img.icons8.com/clouds/30/instagram-new--v3.png" alt="Instagram" />
+    <img src="https://img.icons8.com/clouds/40/instagram-new--v3.png" alt="Instagram" />
   </a>
 </p>
