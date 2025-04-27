@@ -51,7 +51,7 @@
     <img src="https://img.icons8.com/ios-filled/30/006aff/briefcase.png" alt="Useme" />
   </a>
   <a href="odyndev.hashnode.dev" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=HnB8zGOh5xgd&format=png&color=000000" alt="Hashnode" />
+    <img src="https://img.icons8.com/color/30/hashnode.png" alt="Hashnode" />
   </a>
 </p>
 
