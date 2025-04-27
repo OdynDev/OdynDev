@@ -50,4 +50,8 @@
   <a href="https://useme.com/pl/roles/contractor/odyndev,461613/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/30/006aff/briefcase.png" alt="Useme" />
   </a>
+  <a href="odyndev.hashnode.dev" target="_blank">
+    <img src="https://icons8.com/icon/HnB8zGOh5xgd/hashnode" alt="Hashnode" />
+  </a>
 </p>
+
