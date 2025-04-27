@@ -36,7 +36,7 @@
 ### 📬 Let's Connect:
 <p align="center">
   <a href="mailto:odyndev@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/EA4335/new-post.png" alt="Email" />
+    <img src="https://img.icons8.com/ios/30/gmail-new.png" alt="Email" />
   </a>
   <a href="https://github.com/odyndev" target="_blank">
     <img src="https://img.icons8.com/ios-filled/30/ffffff/github.png" alt="GitHub" />
@@ -53,5 +53,10 @@
   <a href="odyndev.hashnode.dev" target="_blank">
     <img src="https://img.icons8.com/color/30/hashnode.png" alt="Hashnode" />
   </a>
+  <a href="https://www.facebook.com/profile.php?id=61575264760407" target="_blank">
+    <img src="https://img.icons8.com/ios/30/facebook-new.png" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/odyndev" target="_blank">
+    <img src="https://img.icons8.com/ios/30/instagram-new--v1.png" alt="Instagram" />
+  </a>
 </p>
-
