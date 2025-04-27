@@ -11,12 +11,6 @@
 
 ---
 
-### 🚀 Tech Stack:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,sql,php,js,react,wordpress,elementor" />
-</p>
----
-
 ### 🌐 Portfolio & Projects:
 - 🔗 [My Portfolio Website](https://odyndev.vercel.app/)
 - 🧩 Check pinned repos below 👇
