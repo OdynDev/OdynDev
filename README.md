@@ -33,6 +33,9 @@
 
 ### 📬 Let's Connect:
 <p align="center">
+  <a href="odyndev.hashnode.dev" target="_blank">
+    <img src="https://img.icons8.com/color/40/hashnode.png" alt="Hashnode" />
+  </a>
   <a href="mailto:odyndev@gmail.com" target="_blank">
     <img src="https://img.icons8.com/clouds/40/gmail-new.png" alt="Email" />
   </a>
@@ -47,9 +50,6 @@
   </a>
   <a href="https://useme.com/pl/roles/contractor/odyndev,461613/" target="_blank">
     <img src="https://img.icons8.com/clouds/40/u.png" alt="Useme" />
-  </a>
-  <a href="odyndev.hashnode.dev" target="_blank">
-    <img src="https://img.icons8.com/color/40/hashnode.png" alt="Hashnode" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=61575264760407" target="_blank">
     <img src="https://img.icons8.com/clouds/40/facebook-new.png" alt="Facebook" />
